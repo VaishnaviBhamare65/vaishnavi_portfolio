@@ -5,7 +5,7 @@ const projects = [
     desc: "A modern frontend application showcasing UI design, responsiveness, and interactive components.",
     tech: ["React", "Tailwind", "TypeScript"],
     link: "https://akatsuki-draft-appilcation.vercel.app",
-    github: "https://github.com/Samruddhi2329/Akatsuki-Draft-Platform",
+    github: "#",
     image: akatsukiImg,
   },
 ];
@@ -69,3 +69,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
